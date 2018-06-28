@@ -1,0 +1,10 @@
+.header {
+    background-color: #000000;
+    font-family: Helvetica;
+    height: 300px;
+    color: #ffffff;
+}
+
+.pageTitle {
+    text-align: center
+}
